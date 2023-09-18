@@ -1,0 +1,10 @@
+header{
+    background-color: lightseagreen;
+    background-image: url(img/pattern.png);
+    
+    background-size: contain;
+    
+}
+header>img{
+    width: 20%;
+}
